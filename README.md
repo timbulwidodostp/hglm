@@ -1,6 +1,8 @@
 # hglm
 Fitting Hierarchical Generalized Linear Models Use hglm With (In) R Software
 
+https://www.youtube.com/watch?v=gm3wjdS_lpk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
